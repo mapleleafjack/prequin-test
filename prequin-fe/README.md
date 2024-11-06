@@ -21,11 +21,16 @@ Ensure you have the following installed:
 ### Installation
 . **Install dependencies:**
 
-    ```bash
-    npm install
-    ```
-. **Running the app*
+```bash
+npm install
+```
+. **Running the app:**
 
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
+. **Running tests:**
+
+```bash
+npm run test
+```
