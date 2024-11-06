@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Investor } from '../types';
 import { getInvestors } from '../api/investors';

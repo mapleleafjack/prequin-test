@@ -1,5 +1,3 @@
-# data_loader.py
-
 import csv
 from src.repositories.investor_repository import InvestorRepository
 from src.entities.investor import Investor

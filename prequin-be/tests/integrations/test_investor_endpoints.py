@@ -1,4 +1,3 @@
-# tests/integration/test_investor_endpoints.py
 import pytest
 from unittest.mock import patch, MagicMock
 from app import app
