@@ -1,0 +1,5 @@
+venv/
+__init__.py
+investors.db
+**/__pycache__/
+data.csv
